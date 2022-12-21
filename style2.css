@@ -1,0 +1,38 @@
+.block{
+    position: absolute;
+width: 1440px;
+height: 87px;
+left: 0px;
+top: 0px;
+
+background: #7E4D9F;
+}
+.block1{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 107px;
+top: 27px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+
+}
+.block2{
+    position: absolute;
+width: 103px;
+height: 33px;
+left: 249px;
+top: 27px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(255, 255, 255, 0.65);
+}
